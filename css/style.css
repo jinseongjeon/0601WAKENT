@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'SpoqaHanSansNeo-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SpoqaHanSansNeo-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font20-500{
+    font-size: 2rem;
+    font-family: 'SpoqaHanSansNeo-Medium';
+    line-height: 3.5rem;
+}
+.font24-700{
+    font-size: 2.4rem;
+    font-family: 'SpoqaHanSansNeo-Bold';
+    font-weight: 700;
+}
+.font32-700{
+    font-size: 3.2rem;
+    font-family: 'SpoqaHanSansNeo-Bold';
+    font-weight: 700;
+}
+.font48-700{
+    font-size: 4.8rem;
+    font-family: 'SpoqaHanSansNeo-Bold';
+    font-weight: 700;
+}
+.yellow{
+    color: #ff9900;
+}
+.white{
+    color: #ffffff;
+}
